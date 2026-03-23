@@ -1,4 +1,4 @@
-package edu.ttap;
+package edu.ttap.trees;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -9,7 +9,7 @@ import net.jqwik.api.Property;
 import net.jqwik.api.constraints.IntRange;
 
 /** An example test suite. */
-public class ExampleTests {
+public class TreeTest {
     /** An example JUnit test. */
     @Test
     public void exampleUnitTest() {

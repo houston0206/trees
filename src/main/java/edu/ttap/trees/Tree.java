@@ -1,9 +1,9 @@
-package edu.ttap;
+package edu.ttap.trees;
 
 /**
  * The driver for our lab on lists.
  */
-public class Main {
+public class Tree {
     /**
      * The main entry point for the program.
      * @param args the command-line arguments
