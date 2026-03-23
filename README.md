@@ -1,4 +1,4 @@
-# (_TODO: fill in the title of this assignment here!_)
+Lab: Trees (3/23/2026)
 
 Authors: (_TODO: fill in your names here!_)
 
